@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BeautyInside</string>
+    <string name="app_name_kor">뷰티인사이드</string>
+    <string name="home">홈</string>
+    <string name="category">카테고리</string>
+    <string name="menual">메뉴얼</string>
+    <string name="hnb_store">H&amp;B 스토어</string>
+    <string name="add">추가하기</string>
+    <string name="next">다음</string>
+    <string name="cancel">취소하기</string>
+    <string name="item_name">제품명</string>
+    <string name="color">컬러</string>
+    <string name="capacity">용량</string>
+    <string name="price">가격</string>
+    <string name="expiry_date">기한</string>
+    <string name="memo">메모</string>
+    <string name="brand">브랜드</string>
+    <string name="store">스토어</string>
+    <string name="plus">+</string>
+    <string name="brand_plus">브랜드 추가하기</string>
+    <string name="image_plus">이미지\n추가하기</string>
+    <string name="sub_app_name">화장품 뭐 있더라?</string>
+    <string name="beauty">Beauty</string>
+    <string name="img_error">이미지 오류입니다\n죄송합니다</string>
+    <string name="no_info">등록된 화장품이 없습니다.\n카테고리에서 추가해보세요!</string>
+    <string name="menual_text">어떤 색의 화장품을 가지고 있는지 기억하시나요?\n\n\n화장품을 종류별로 나눠 저장해두세요!\n\n\nX모양 버튼을 눌러 수정/삭제를 할 수 있습니다!</string>
+    <string name="really_delete">정말 삭제하시겠습니까?</string>
+    <string name="delete">삭제하기</string>
+    <string name="modify">수정하기</string>
+    <string-array name="brand_array">
+        <item>올리브영</item>
+        <item>롭스</item>
+        <item>아리따움</item>
+        <item>랄라블라</item>
+        <item>눙크</item>
+        <item>세포라</item>
+        <item>시코르</item>
+        <item>네이처컬렉션</item>
+    </string-array>
+</resources>
